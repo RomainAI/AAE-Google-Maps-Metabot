@@ -1,0 +1,5 @@
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\bin\Debug\GoogleMapsAPI.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\bin\Debug\GoogleMapsAPI.pdb
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Debug\GoogleMapsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Debug\GoogleMapsAPI.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Debug\GoogleMapsAPI.pdb

@@ -1,0 +1,12 @@
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\Console_Test.exe.config
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\Console_Test.exe
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\Console_Test.pdb
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\GoogleMapsAPI.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\GoogleMapsAPI.pdb
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\obj\Release\Console_Test.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\obj\Release\Console_Test.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\obj\Release\Console_Test.csproj.CopyComplete
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\obj\Release\Console_Test.exe
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\Console_Test\obj\Release\Console_Test.pdb

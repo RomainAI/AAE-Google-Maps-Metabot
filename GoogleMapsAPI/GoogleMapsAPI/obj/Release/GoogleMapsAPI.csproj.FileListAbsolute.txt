@@ -1,0 +1,6 @@
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\bin\Release\GoogleMapsAPI.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\bin\Release\GoogleMapsAPI.pdb
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Release\GoogleMapsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Release\GoogleMapsAPI.dll
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Release\GoogleMapsAPI.pdb
+C:\Users\Romain.Alexandre\source\repos\GoogleMapsAPI\GoogleMapsAPI\obj\Release\GoogleMapsAPI.csprojAssemblyReference.cache
